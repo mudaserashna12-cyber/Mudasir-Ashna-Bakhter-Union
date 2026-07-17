@@ -65,7 +65,7 @@
         <div class="divider">✦</div>
         <div class="logo-block">
             <!-- Bakhtar Union Logo -->
-            <img logo-mudasir.png" alt="Bakhtar Union Mining & Processing Company">
+            <img src="logo-mudasir.png" alt="Bakhtar Union Mining & Processing Company">
             <h3>Bakhtar Union Mining & Processing Company</h3>
         </div>
     </div>
